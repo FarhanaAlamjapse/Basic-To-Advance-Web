@@ -1,6 +1,4 @@
-.btn-success {
-  background-color: crimson;
-}
-.btn-success:hover {
-  background-color: black;
+.col {
+  background-color: aqua;
+  border: 2px solid black;
 }
